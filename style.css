@@ -47,7 +47,8 @@ main {
   .block {
     width: 30%;
   }
-
+  /* was trying to fix an issue that didn't exist on Microsoft edge, now I don't know what this is.
+   I'm gonna leave it here, because it doesn't do anything bad */
   @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
     body {
       padding: 0;
@@ -107,8 +108,9 @@ main {
   overflow: hidden;
   transition: background-color 0.3s;
 }
+
 .btn:hover {
-  background-color: aquamarine;
+  background-color: rgb(130, 50, 141);
 }
 a {
   color: white;
