@@ -110,7 +110,7 @@ main {
 }
 
 .btn:hover {
-  background-color: aquamarine;
+  background-color: rgb(139, 187, 171);
 }
 a {
   color: white;
