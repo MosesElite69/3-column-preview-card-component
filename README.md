@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MosesElite69/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/MosesElite69/3-column-preview-card-component)
+- Live Site URL: [Live site URL](https://3-columns-preview-card-comp.netlify.app/)
 
 ## My process
 
